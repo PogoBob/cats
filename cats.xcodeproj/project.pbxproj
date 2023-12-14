@@ -1,0 +1,92 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C79FEE802B2AF09400EB5BC0 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		C79FEE812B2AF09400EB5BC0 /* main.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
+		C79FEE822B2AF09400EB5BC0 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		C7E9CC182B2AEE3A002B3833 /* index.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		C7E9CC192B2AEE3A002B3833 /* styles.css */ = {isa = PBXFileReference; lastKnownFileType = text.css; path = styles.css; sourceTree = "<group>"; };
+		C7E9CC1A2B2AEE3A002B3833 /* main.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = main.js; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C79FEE832B2AF09B00EB5BC0 /* orig */ = {
+			isa = PBXGroup;
+			children = (
+				C7E9CC182B2AEE3A002B3833 /* index.html */,
+				C7E9CC1A2B2AEE3A002B3833 /* main.js */,
+				C7E9CC192B2AEE3A002B3833 /* styles.css */,
+			);
+			path = orig;
+			sourceTree = "<group>";
+		};
+		C7E9CC112B2AEE2D002B3833 = {
+			isa = PBXGroup;
+			children = (
+				C79FEE832B2AF09B00EB5BC0 /* orig */,
+				C79FEE802B2AF09400EB5BC0 /* index.html */,
+				C79FEE812B2AF09400EB5BC0 /* main.js */,
+				C79FEE822B2AF09400EB5BC0 /* styles.css */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C7E9CC122B2AEE2D002B3833 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1510;
+			};
+			buildConfigurationList = C7E9CC152B2AEE2D002B3833 /* Build configuration list for PBXProject "cats" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C7E9CC112B2AEE2D002B3833;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		C7E9CC162B2AEE2D002B3833 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C7E9CC172B2AEE2D002B3833 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C7E9CC152B2AEE2D002B3833 /* Build configuration list for PBXProject "cats" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C7E9CC162B2AEE2D002B3833 /* Debug */,
+				C7E9CC172B2AEE2D002B3833 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C7E9CC122B2AEE2D002B3833 /* Project object */;
+}
